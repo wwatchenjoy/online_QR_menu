@@ -17,7 +17,7 @@
 Официант выполняет свою обычную работу с терминалом R-Keeper или iiko, интегрированным с Системой.
 
 ## 2.2 Интеграция с R-Keeper или iiko
-R-Keeper и iiko имеют открые API<br/>
+R-Keeper и iiko имеют API (на данный момент непонятно насколько они открыты)<br/>
 https://docs.rkeeper.ru/delivery/vozmoyonosti-api<br/>
 https://ru.iiko.help/articles/#!api-documentations/api-newprj<br/>
 Весь основной функционал терминалов заведения остается неизменным. Система лишь вносит новые данные, либо запрашивает имеющиеся.<br/>
